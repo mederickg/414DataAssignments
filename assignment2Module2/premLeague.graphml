@@ -1,0 +1,565 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Man United" />
+    <node id="Leicester" />
+    <node id="Bournemouth" />
+    <node id="Cardiff" />
+    <node id="Fulham" />
+    <node id="Crystal Palace" />
+    <node id="Huddersfield" />
+    <node id="Chelsea" />
+    <node id="Newcastle" />
+    <node id="Tottenham" />
+    <node id="Watford" />
+    <node id="Brighton" />
+    <node id="Wolves" />
+    <node id="Everton" />
+    <node id="Arsenal" />
+    <node id="Man City" />
+    <node id="Liverpool" />
+    <node id="West Ham" />
+    <node id="Southampton" />
+    <node id="Burnley" />
+    <node id="Sunderland" />
+    <node id="Norwich" />
+    <node id="QPR" />
+    <node id="Swansea" />
+    <node id="Reading" />
+    <node id="Stoke" />
+    <node id="West Brom" />
+    <node id="Aston Villa" />
+    <node id="Wigan" />
+    <node id="Hull" />
+    <node id="Middlesbrough" />
+    <node id="Blackburn" />
+    <node id="Bolton" />
+    <node id="Birmingham" />
+    <node id="Blackpool" />
+    <node id="Portsmouth" />
+    <edge source="Man United" target="Leicester" />
+    <edge source="Man United" target="Brighton" />
+    <edge source="Man United" target="Tottenham" />
+    <edge source="Man United" target="Burnley" />
+    <edge source="Man United" target="Watford" />
+    <edge source="Man United" target="Wolves" />
+    <edge source="Man United" target="West Ham" />
+    <edge source="Man United" target="Newcastle" />
+    <edge source="Man United" target="Chelsea" />
+    <edge source="Man United" target="Everton" />
+    <edge source="Man United" target="Bournemouth" />
+    <edge source="Man United" target="Man City" />
+    <edge source="Man United" target="Crystal Palace" />
+    <edge source="Man United" target="Southampton" />
+    <edge source="Man United" target="Arsenal" />
+    <edge source="Man United" target="Fulham" />
+    <edge source="Man United" target="Liverpool" />
+    <edge source="Man United" target="Cardiff" />
+    <edge source="Man United" target="Huddersfield" />
+    <edge source="Man United" target="Wigan" />
+    <edge source="Man United" target="Stoke" />
+    <edge source="Man United" target="Aston Villa" />
+    <edge source="Man United" target="Norwich" />
+    <edge source="Man United" target="QPR" />
+    <edge source="Man United" target="Reading" />
+    <edge source="Man United" target="Sunderland" />
+    <edge source="Man United" target="Swansea" />
+    <edge source="Man United" target="West Brom" />
+    <edge source="Man United" target="Hull" />
+    <edge source="Man United" target="Middlesbrough" />
+    <edge source="Man United" target="Bolton" />
+    <edge source="Man United" target="Blackburn" />
+    <edge source="Man United" target="Birmingham" />
+    <edge source="Man United" target="Blackpool" />
+    <edge source="Man United" target="Portsmouth" />
+    <edge source="Leicester" target="Wolves" />
+    <edge source="Leicester" target="Southampton" />
+    <edge source="Leicester" target="Liverpool" />
+    <edge source="Leicester" target="Bournemouth" />
+    <edge source="Leicester" target="Huddersfield" />
+    <edge source="Leicester" target="Newcastle" />
+    <edge source="Leicester" target="Everton" />
+    <edge source="Leicester" target="Arsenal" />
+    <edge source="Leicester" target="West Ham" />
+    <edge source="Leicester" target="Cardiff" />
+    <edge source="Leicester" target="Burnley" />
+    <edge source="Leicester" target="Brighton" />
+    <edge source="Leicester" target="Watford" />
+    <edge source="Leicester" target="Fulham" />
+    <edge source="Leicester" target="Tottenham" />
+    <edge source="Leicester" target="Crystal Palace" />
+    <edge source="Leicester" target="Chelsea" />
+    <edge source="Leicester" target="Man City" />
+    <edge source="Leicester" target="Hull" />
+    <edge source="Leicester" target="Swansea" />
+    <edge source="Leicester" target="West Brom" />
+    <edge source="Leicester" target="Middlesbrough" />
+    <edge source="Leicester" target="Sunderland" />
+    <edge source="Leicester" target="Stoke" />
+    <edge source="Leicester" target="Aston Villa" />
+    <edge source="Leicester" target="Norwich" />
+    <edge source="Leicester" target="QPR" />
+    <edge source="Bournemouth" target="Cardiff" />
+    <edge source="Bournemouth" target="West Ham" />
+    <edge source="Bournemouth" target="Everton" />
+    <edge source="Bournemouth" target="Chelsea" />
+    <edge source="Bournemouth" target="Burnley" />
+    <edge source="Bournemouth" target="Crystal Palace" />
+    <edge source="Bournemouth" target="Watford" />
+    <edge source="Bournemouth" target="Southampton" />
+    <edge source="Bournemouth" target="Fulham" />
+    <edge source="Bournemouth" target="Newcastle" />
+    <edge source="Bournemouth" target="Arsenal" />
+    <edge source="Bournemouth" target="Man City" />
+    <edge source="Bournemouth" target="Huddersfield" />
+    <edge source="Bournemouth" target="Liverpool" />
+    <edge source="Bournemouth" target="Wolves" />
+    <edge source="Bournemouth" target="Brighton" />
+    <edge source="Bournemouth" target="Tottenham" />
+    <edge source="Bournemouth" target="West Brom" />
+    <edge source="Bournemouth" target="Hull" />
+    <edge source="Bournemouth" target="Middlesbrough" />
+    <edge source="Bournemouth" target="Sunderland" />
+    <edge source="Bournemouth" target="Stoke" />
+    <edge source="Bournemouth" target="Swansea" />
+    <edge source="Bournemouth" target="Aston Villa" />
+    <edge source="Bournemouth" target="Norwich" />
+    <edge source="Cardiff" target="Newcastle" />
+    <edge source="Cardiff" target="Huddersfield" />
+    <edge source="Cardiff" target="Arsenal" />
+    <edge source="Cardiff" target="Chelsea" />
+    <edge source="Cardiff" target="Man City" />
+    <edge source="Cardiff" target="Burnley" />
+    <edge source="Cardiff" target="Tottenham" />
+    <edge source="Cardiff" target="Fulham" />
+    <edge source="Cardiff" target="Liverpool" />
+    <edge source="Cardiff" target="Brighton" />
+    <edge source="Cardiff" target="Everton" />
+    <edge source="Cardiff" target="Wolves" />
+    <edge source="Cardiff" target="West Ham" />
+    <edge source="Cardiff" target="Southampton" />
+    <edge source="Cardiff" target="Watford" />
+    <edge source="Cardiff" target="Crystal Palace" />
+    <edge source="Cardiff" target="Hull" />
+    <edge source="Cardiff" target="Norwich" />
+    <edge source="Cardiff" target="Swansea" />
+    <edge source="Cardiff" target="Aston Villa" />
+    <edge source="Cardiff" target="Stoke" />
+    <edge source="Cardiff" target="West Brom" />
+    <edge source="Cardiff" target="Sunderland" />
+    <edge source="Fulham" target="Crystal Palace" />
+    <edge source="Fulham" target="Tottenham" />
+    <edge source="Fulham" target="Burnley" />
+    <edge source="Fulham" target="Brighton" />
+    <edge source="Fulham" target="Man City" />
+    <edge source="Fulham" target="Watford" />
+    <edge source="Fulham" target="Everton" />
+    <edge source="Fulham" target="Arsenal" />
+    <edge source="Fulham" target="Huddersfield" />
+    <edge source="Fulham" target="Liverpool" />
+    <edge source="Fulham" target="Southampton" />
+    <edge source="Fulham" target="Chelsea" />
+    <edge source="Fulham" target="West Ham" />
+    <edge source="Fulham" target="Newcastle" />
+    <edge source="Fulham" target="Wolves" />
+    <edge source="Fulham" target="Norwich" />
+    <edge source="Fulham" target="West Brom" />
+    <edge source="Fulham" target="Wigan" />
+    <edge source="Fulham" target="Aston Villa" />
+    <edge source="Fulham" target="Reading" />
+    <edge source="Fulham" target="Sunderland" />
+    <edge source="Fulham" target="Stoke" />
+    <edge source="Fulham" target="QPR" />
+    <edge source="Fulham" target="Swansea" />
+    <edge source="Fulham" target="Blackburn" />
+    <edge source="Fulham" target="Bolton" />
+    <edge source="Fulham" target="Blackpool" />
+    <edge source="Fulham" target="Birmingham" />
+    <edge source="Fulham" target="Hull" />
+    <edge source="Fulham" target="Portsmouth" />
+    <edge source="Crystal Palace" target="Liverpool" />
+    <edge source="Crystal Palace" target="Watford" />
+    <edge source="Crystal Palace" target="Southampton" />
+    <edge source="Crystal Palace" target="Huddersfield" />
+    <edge source="Crystal Palace" target="Newcastle" />
+    <edge source="Crystal Palace" target="Wolves" />
+    <edge source="Crystal Palace" target="Everton" />
+    <edge source="Crystal Palace" target="Arsenal" />
+    <edge source="Crystal Palace" target="Chelsea" />
+    <edge source="Crystal Palace" target="Tottenham" />
+    <edge source="Crystal Palace" target="Burnley" />
+    <edge source="Crystal Palace" target="Brighton" />
+    <edge source="Crystal Palace" target="West Ham" />
+    <edge source="Crystal Palace" target="Man City" />
+    <edge source="Crystal Palace" target="West Brom" />
+    <edge source="Crystal Palace" target="Middlesbrough" />
+    <edge source="Crystal Palace" target="Stoke" />
+    <edge source="Crystal Palace" target="Sunderland" />
+    <edge source="Crystal Palace" target="Swansea" />
+    <edge source="Crystal Palace" target="Hull" />
+    <edge source="Crystal Palace" target="Norwich" />
+    <edge source="Crystal Palace" target="Aston Villa" />
+    <edge source="Crystal Palace" target="QPR" />
+    <edge source="Huddersfield" target="Chelsea" />
+    <edge source="Huddersfield" target="Man City" />
+    <edge source="Huddersfield" target="Everton" />
+    <edge source="Huddersfield" target="Tottenham" />
+    <edge source="Huddersfield" target="Burnley" />
+    <edge source="Huddersfield" target="Liverpool" />
+    <edge source="Huddersfield" target="Watford" />
+    <edge source="Huddersfield" target="West Ham" />
+    <edge source="Huddersfield" target="Wolves" />
+    <edge source="Huddersfield" target="Brighton" />
+    <edge source="Huddersfield" target="Arsenal" />
+    <edge source="Huddersfield" target="Newcastle" />
+    <edge source="Huddersfield" target="Southampton" />
+    <edge source="Huddersfield" target="Swansea" />
+    <edge source="Huddersfield" target="West Brom" />
+    <edge source="Huddersfield" target="Stoke" />
+    <edge source="Chelsea" target="Arsenal" />
+    <edge source="Chelsea" target="Newcastle" />
+    <edge source="Chelsea" target="West Ham" />
+    <edge source="Chelsea" target="Liverpool" />
+    <edge source="Chelsea" target="Southampton" />
+    <edge source="Chelsea" target="Burnley" />
+    <edge source="Chelsea" target="Everton" />
+    <edge source="Chelsea" target="Tottenham" />
+    <edge source="Chelsea" target="Wolves" />
+    <edge source="Chelsea" target="Man City" />
+    <edge source="Chelsea" target="Brighton" />
+    <edge source="Chelsea" target="Watford" />
+    <edge source="Chelsea" target="Wigan" />
+    <edge source="Chelsea" target="Reading" />
+    <edge source="Chelsea" target="QPR" />
+    <edge source="Chelsea" target="Stoke" />
+    <edge source="Chelsea" target="Norwich" />
+    <edge source="Chelsea" target="Swansea" />
+    <edge source="Chelsea" target="West Brom" />
+    <edge source="Chelsea" target="Sunderland" />
+    <edge source="Chelsea" target="Aston Villa" />
+    <edge source="Chelsea" target="Hull" />
+    <edge source="Chelsea" target="Middlesbrough" />
+    <edge source="Chelsea" target="Bolton" />
+    <edge source="Chelsea" target="Blackburn" />
+    <edge source="Chelsea" target="Blackpool" />
+    <edge source="Chelsea" target="Birmingham" />
+    <edge source="Chelsea" target="Portsmouth" />
+    <edge source="Newcastle" target="Tottenham" />
+    <edge source="Newcastle" target="Man City" />
+    <edge source="Newcastle" target="Arsenal" />
+    <edge source="Newcastle" target="Brighton" />
+    <edge source="Newcastle" target="Southampton" />
+    <edge source="Newcastle" target="Watford" />
+    <edge source="Newcastle" target="Burnley" />
+    <edge source="Newcastle" target="West Ham" />
+    <edge source="Newcastle" target="Everton" />
+    <edge source="Newcastle" target="Wolves" />
+    <edge source="Newcastle" target="Liverpool" />
+    <edge source="Newcastle" target="Aston Villa" />
+    <edge source="Newcastle" target="Norwich" />
+    <edge source="Newcastle" target="Reading" />
+    <edge source="Newcastle" target="Sunderland" />
+    <edge source="Newcastle" target="West Brom" />
+    <edge source="Newcastle" target="Swansea" />
+    <edge source="Newcastle" target="Stoke" />
+    <edge source="Newcastle" target="Wigan" />
+    <edge source="Newcastle" target="QPR" />
+    <edge source="Newcastle" target="Hull" />
+    <edge source="Newcastle" target="Blackburn" />
+    <edge source="Newcastle" target="Bolton" />
+    <edge source="Newcastle" target="Blackpool" />
+    <edge source="Newcastle" target="Birmingham" />
+    <edge source="Tottenham" target="Watford" />
+    <edge source="Tottenham" target="Liverpool" />
+    <edge source="Tottenham" target="Brighton" />
+    <edge source="Tottenham" target="West Ham" />
+    <edge source="Tottenham" target="Man City" />
+    <edge source="Tottenham" target="Wolves" />
+    <edge source="Tottenham" target="Arsenal" />
+    <edge source="Tottenham" target="Southampton" />
+    <edge source="Tottenham" target="Burnley" />
+    <edge source="Tottenham" target="Everton" />
+    <edge source="Tottenham" target="West Brom" />
+    <edge source="Tottenham" target="Norwich" />
+    <edge source="Tottenham" target="Reading" />
+    <edge source="Tottenham" target="QPR" />
+    <edge source="Tottenham" target="Aston Villa" />
+    <edge source="Tottenham" target="Wigan" />
+    <edge source="Tottenham" target="Swansea" />
+    <edge source="Tottenham" target="Stoke" />
+    <edge source="Tottenham" target="Sunderland" />
+    <edge source="Tottenham" target="Middlesbrough" />
+    <edge source="Tottenham" target="Hull" />
+    <edge source="Tottenham" target="Blackburn" />
+    <edge source="Tottenham" target="Bolton" />
+    <edge source="Tottenham" target="Birmingham" />
+    <edge source="Tottenham" target="Blackpool" />
+    <edge source="Tottenham" target="Portsmouth" />
+    <edge source="Watford" target="Brighton" />
+    <edge source="Watford" target="Burnley" />
+    <edge source="Watford" target="Arsenal" />
+    <edge source="Watford" target="Wolves" />
+    <edge source="Watford" target="Southampton" />
+    <edge source="Watford" target="Liverpool" />
+    <edge source="Watford" target="Man City" />
+    <edge source="Watford" target="Everton" />
+    <edge source="Watford" target="West Ham" />
+    <edge source="Watford" target="Middlesbrough" />
+    <edge source="Watford" target="Swansea" />
+    <edge source="Watford" target="Hull" />
+    <edge source="Watford" target="Stoke" />
+    <edge source="Watford" target="West Brom" />
+    <edge source="Watford" target="Sunderland" />
+    <edge source="Watford" target="Aston Villa" />
+    <edge source="Watford" target="Norwich" />
+    <edge source="Brighton" target="Liverpool" />
+    <edge source="Brighton" target="Southampton" />
+    <edge source="Brighton" target="Man City" />
+    <edge source="Brighton" target="West Ham" />
+    <edge source="Brighton" target="Wolves" />
+    <edge source="Brighton" target="Everton" />
+    <edge source="Brighton" target="Burnley" />
+    <edge source="Brighton" target="Arsenal" />
+    <edge source="Brighton" target="West Brom" />
+    <edge source="Brighton" target="Swansea" />
+    <edge source="Brighton" target="Stoke" />
+    <edge source="Wolves" target="Everton" />
+    <edge source="Wolves" target="Man City" />
+    <edge source="Wolves" target="West Ham" />
+    <edge source="Wolves" target="Burnley" />
+    <edge source="Wolves" target="Southampton" />
+    <edge source="Wolves" target="Arsenal" />
+    <edge source="Wolves" target="Liverpool" />
+    <edge source="Wolves" target="Blackburn" />
+    <edge source="Wolves" target="Aston Villa" />
+    <edge source="Wolves" target="QPR" />
+    <edge source="Wolves" target="West Brom" />
+    <edge source="Wolves" target="Swansea" />
+    <edge source="Wolves" target="Wigan" />
+    <edge source="Wolves" target="Sunderland" />
+    <edge source="Wolves" target="Stoke" />
+    <edge source="Wolves" target="Norwich" />
+    <edge source="Wolves" target="Bolton" />
+    <edge source="Wolves" target="Blackpool" />
+    <edge source="Wolves" target="Birmingham" />
+    <edge source="Wolves" target="Hull" />
+    <edge source="Wolves" target="Portsmouth" />
+    <edge source="Everton" target="Southampton" />
+    <edge source="Everton" target="West Ham" />
+    <edge source="Everton" target="Arsenal" />
+    <edge source="Everton" target="Liverpool" />
+    <edge source="Everton" target="Man City" />
+    <edge source="Everton" target="Burnley" />
+    <edge source="Everton" target="Aston Villa" />
+    <edge source="Everton" target="West Brom" />
+    <edge source="Everton" target="Swansea" />
+    <edge source="Everton" target="Wigan" />
+    <edge source="Everton" target="QPR" />
+    <edge source="Everton" target="Sunderland" />
+    <edge source="Everton" target="Reading" />
+    <edge source="Everton" target="Norwich" />
+    <edge source="Everton" target="Stoke" />
+    <edge source="Everton" target="Middlesbrough" />
+    <edge source="Everton" target="Hull" />
+    <edge source="Everton" target="Blackburn" />
+    <edge source="Everton" target="Bolton" />
+    <edge source="Everton" target="Birmingham" />
+    <edge source="Everton" target="Blackpool" />
+    <edge source="Everton" target="Portsmouth" />
+    <edge source="Arsenal" target="Man City" />
+    <edge source="Arsenal" target="West Ham" />
+    <edge source="Arsenal" target="Liverpool" />
+    <edge source="Arsenal" target="Southampton" />
+    <edge source="Arsenal" target="Burnley" />
+    <edge source="Arsenal" target="Sunderland" />
+    <edge source="Arsenal" target="Stoke" />
+    <edge source="Arsenal" target="Norwich" />
+    <edge source="Arsenal" target="QPR" />
+    <edge source="Arsenal" target="Aston Villa" />
+    <edge source="Arsenal" target="Swansea" />
+    <edge source="Arsenal" target="West Brom" />
+    <edge source="Arsenal" target="Reading" />
+    <edge source="Arsenal" target="Wigan" />
+    <edge source="Arsenal" target="Hull" />
+    <edge source="Arsenal" target="Middlesbrough" />
+    <edge source="Arsenal" target="Blackburn" />
+    <edge source="Arsenal" target="Bolton" />
+    <edge source="Arsenal" target="Blackpool" />
+    <edge source="Arsenal" target="Birmingham" />
+    <edge source="Arsenal" target="Portsmouth" />
+    <edge source="Man City" target="Liverpool" />
+    <edge source="Man City" target="Burnley" />
+    <edge source="Man City" target="Southampton" />
+    <edge source="Man City" target="West Ham" />
+    <edge source="Man City" target="QPR" />
+    <edge source="Man City" target="Stoke" />
+    <edge source="Man City" target="Sunderland" />
+    <edge source="Man City" target="West Brom" />
+    <edge source="Man City" target="Swansea" />
+    <edge source="Man City" target="Aston Villa" />
+    <edge source="Man City" target="Wigan" />
+    <edge source="Man City" target="Reading" />
+    <edge source="Man City" target="Norwich" />
+    <edge source="Man City" target="Middlesbrough" />
+    <edge source="Man City" target="Hull" />
+    <edge source="Man City" target="Bolton" />
+    <edge source="Man City" target="Blackburn" />
+    <edge source="Man City" target="Blackpool" />
+    <edge source="Man City" target="Birmingham" />
+    <edge source="Man City" target="Portsmouth" />
+    <edge source="Liverpool" target="West Ham" />
+    <edge source="Liverpool" target="Southampton" />
+    <edge source="Liverpool" target="Burnley" />
+    <edge source="Liverpool" target="West Brom" />
+    <edge source="Liverpool" target="Sunderland" />
+    <edge source="Liverpool" target="Norwich" />
+    <edge source="Liverpool" target="Stoke" />
+    <edge source="Liverpool" target="Reading" />
+    <edge source="Liverpool" target="Wigan" />
+    <edge source="Liverpool" target="Swansea" />
+    <edge source="Liverpool" target="Aston Villa" />
+    <edge source="Liverpool" target="QPR" />
+    <edge source="Liverpool" target="Hull" />
+    <edge source="Liverpool" target="Middlesbrough" />
+    <edge source="Liverpool" target="Bolton" />
+    <edge source="Liverpool" target="Blackburn" />
+    <edge source="Liverpool" target="Birmingham" />
+    <edge source="Liverpool" target="Blackpool" />
+    <edge source="Liverpool" target="Portsmouth" />
+    <edge source="West Ham" target="Burnley" />
+    <edge source="West Ham" target="Southampton" />
+    <edge source="West Ham" target="Aston Villa" />
+    <edge source="West Ham" target="Swansea" />
+    <edge source="West Ham" target="Norwich" />
+    <edge source="West Ham" target="Sunderland" />
+    <edge source="West Ham" target="QPR" />
+    <edge source="West Ham" target="Wigan" />
+    <edge source="West Ham" target="Stoke" />
+    <edge source="West Ham" target="West Brom" />
+    <edge source="West Ham" target="Reading" />
+    <edge source="West Ham" target="Middlesbrough" />
+    <edge source="West Ham" target="Hull" />
+    <edge source="West Ham" target="Bolton" />
+    <edge source="West Ham" target="Birmingham" />
+    <edge source="West Ham" target="Blackpool" />
+    <edge source="West Ham" target="Blackburn" />
+    <edge source="West Ham" target="Portsmouth" />
+    <edge source="Southampton" target="Burnley" />
+    <edge source="Southampton" target="Wigan" />
+    <edge source="Southampton" target="Aston Villa" />
+    <edge source="Southampton" target="West Brom" />
+    <edge source="Southampton" target="Swansea" />
+    <edge source="Southampton" target="QPR" />
+    <edge source="Southampton" target="Norwich" />
+    <edge source="Southampton" target="Reading" />
+    <edge source="Southampton" target="Sunderland" />
+    <edge source="Southampton" target="Stoke" />
+    <edge source="Southampton" target="Hull" />
+    <edge source="Southampton" target="Middlesbrough" />
+    <edge source="Burnley" target="Swansea" />
+    <edge source="Burnley" target="Hull" />
+    <edge source="Burnley" target="West Brom" />
+    <edge source="Burnley" target="Stoke" />
+    <edge source="Burnley" target="Middlesbrough" />
+    <edge source="Burnley" target="Sunderland" />
+    <edge source="Burnley" target="Aston Villa" />
+    <edge source="Burnley" target="QPR" />
+    <edge source="Burnley" target="Birmingham" />
+    <edge source="Burnley" target="Blackburn" />
+    <edge source="Burnley" target="Wigan" />
+    <edge source="Burnley" target="Portsmouth" />
+    <edge source="Burnley" target="Bolton" />
+    <edge source="Sunderland" target="Swansea" />
+    <edge source="Sunderland" target="Wigan" />
+    <edge source="Sunderland" target="Stoke" />
+    <edge source="Sunderland" target="Aston Villa" />
+    <edge source="Sunderland" target="West Brom" />
+    <edge source="Sunderland" target="QPR" />
+    <edge source="Sunderland" target="Norwich" />
+    <edge source="Sunderland" target="Reading" />
+    <edge source="Sunderland" target="Middlesbrough" />
+    <edge source="Sunderland" target="Hull" />
+    <edge source="Sunderland" target="Bolton" />
+    <edge source="Sunderland" target="Blackburn" />
+    <edge source="Sunderland" target="Birmingham" />
+    <edge source="Sunderland" target="Blackpool" />
+    <edge source="Sunderland" target="Portsmouth" />
+    <edge source="Norwich" target="QPR" />
+    <edge source="Norwich" target="Aston Villa" />
+    <edge source="Norwich" target="Stoke" />
+    <edge source="Norwich" target="Reading" />
+    <edge source="Norwich" target="Swansea" />
+    <edge source="Norwich" target="Wigan" />
+    <edge source="Norwich" target="West Brom" />
+    <edge source="Norwich" target="Bolton" />
+    <edge source="Norwich" target="Blackburn" />
+    <edge source="Norwich" target="Hull" />
+    <edge source="QPR" target="Swansea" />
+    <edge source="QPR" target="West Brom" />
+    <edge source="QPR" target="Reading" />
+    <edge source="QPR" target="Stoke" />
+    <edge source="QPR" target="Aston Villa" />
+    <edge source="QPR" target="Wigan" />
+    <edge source="QPR" target="Hull" />
+    <edge source="QPR" target="Bolton" />
+    <edge source="QPR" target="Blackburn" />
+    <edge source="Swansea" target="Aston Villa" />
+    <edge source="Swansea" target="Stoke" />
+    <edge source="Swansea" target="Reading" />
+    <edge source="Swansea" target="Wigan" />
+    <edge source="Swansea" target="West Brom" />
+    <edge source="Swansea" target="Hull" />
+    <edge source="Swansea" target="Middlesbrough" />
+    <edge source="Swansea" target="Bolton" />
+    <edge source="Swansea" target="Blackburn" />
+    <edge source="Reading" target="Stoke" />
+    <edge source="Reading" target="West Brom" />
+    <edge source="Reading" target="Wigan" />
+    <edge source="Reading" target="Aston Villa" />
+    <edge source="Stoke" target="Wigan" />
+    <edge source="Stoke" target="West Brom" />
+    <edge source="Stoke" target="Aston Villa" />
+    <edge source="Stoke" target="Middlesbrough" />
+    <edge source="Stoke" target="Hull" />
+    <edge source="Stoke" target="Bolton" />
+    <edge source="Stoke" target="Blackburn" />
+    <edge source="Stoke" target="Birmingham" />
+    <edge source="Stoke" target="Blackpool" />
+    <edge source="Stoke" target="Portsmouth" />
+    <edge source="West Brom" target="Aston Villa" />
+    <edge source="West Brom" target="Wigan" />
+    <edge source="West Brom" target="Middlesbrough" />
+    <edge source="West Brom" target="Hull" />
+    <edge source="West Brom" target="Bolton" />
+    <edge source="West Brom" target="Blackburn" />
+    <edge source="West Brom" target="Birmingham" />
+    <edge source="West Brom" target="Blackpool" />
+    <edge source="Aston Villa" target="Wigan" />
+    <edge source="Aston Villa" target="Hull" />
+    <edge source="Aston Villa" target="Blackburn" />
+    <edge source="Aston Villa" target="Bolton" />
+    <edge source="Aston Villa" target="Birmingham" />
+    <edge source="Aston Villa" target="Blackpool" />
+    <edge source="Aston Villa" target="Portsmouth" />
+    <edge source="Wigan" target="Bolton" />
+    <edge source="Wigan" target="Blackburn" />
+    <edge source="Wigan" target="Blackpool" />
+    <edge source="Wigan" target="Birmingham" />
+    <edge source="Wigan" target="Hull" />
+    <edge source="Wigan" target="Portsmouth" />
+    <edge source="Hull" target="Middlesbrough" />
+    <edge source="Hull" target="Bolton" />
+    <edge source="Hull" target="Birmingham" />
+    <edge source="Hull" target="Portsmouth" />
+    <edge source="Hull" target="Blackburn" />
+    <edge source="Blackburn" target="Bolton" />
+    <edge source="Blackburn" target="Birmingham" />
+    <edge source="Blackburn" target="Blackpool" />
+    <edge source="Blackburn" target="Portsmouth" />
+    <edge source="Bolton" target="Birmingham" />
+    <edge source="Bolton" target="Blackpool" />
+    <edge source="Bolton" target="Portsmouth" />
+    <edge source="Birmingham" target="Blackpool" />
+    <edge source="Birmingham" target="Portsmouth" />
+  </graph>
+</graphml>
